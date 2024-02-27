@@ -1,7 +1,7 @@
 com.facebook.react:react-android:0.73.4
 com.facebook.react:flipper-integration:0.73.4
 com.facebook.react:hermes-android:0.73.4
-NuggetsSDK:nuggetslife_react-native-amqp:BUILD_VERSION
-NuggetsSDK:nuggetslife_react-native-nuggets:BUILD_VERSION
-NuggetsSDK:react-native-randombytes:BUILD_VERSION
-NuggetsSDK:react-native-tcp:BUILD_VERSION
+life.nuggets.nuggetssdk:nuggetslife_react-native-amqp:BUILD_VERSION
+life.nuggets.nuggetssdk:nuggetslife_react-native-nuggets:BUILD_VERSION
+life.nuggets.nuggetssdk:react-native-randombytes:BUILD_VERSION
+life.nuggets.nuggetssdk:react-native-tcp:BUILD_VERSION
