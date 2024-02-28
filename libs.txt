@@ -5,3 +5,4 @@ com.github.NuggetsLtd.mobile-sdk-android-libs:nuggetslife_react-native-amqp:BUIL
 com.github.NuggetsLtd.mobile-sdk-android-libs:nuggetslife_react-native-nuggets:BUILD_VERSION
 com.github.NuggetsLtd.mobile-sdk-android-libs:react-native-randombytes:BUILD_VERSION
 com.github.NuggetsLtd.mobile-sdk-android-libs:react-native-tcp:BUILD_VERSION
+com.koushikdutta.async:androidasync:2.1.6
