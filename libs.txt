@@ -1,7 +1,7 @@
 com.facebook.react:react-android:0.73.4
 com.facebook.react:flipper-integration:0.73.4
 com.github.mukeshsolanki:Android-Tamper-Detector:0.0.4
-com.github.NuggetsLtd.mobile-sdk-android-libs:react-native-camera:BUILD_VERSION
+com.github.NuggetsLtd.mobile-sdk-android-libs:react-native-camera-general:BUILD_VERSION
 com.facebook.react:hermes-android:0.73.4
 com.github.NuggetsLtd.mobile-sdk-android-libs:bam.tech_react-native-image-resizer:BUILD_VERSION
 com.github.NuggetsLtd.mobile-sdk-android-libs:iproov_react-native:BUILD_VERSION
