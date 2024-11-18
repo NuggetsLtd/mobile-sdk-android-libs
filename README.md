@@ -5,6 +5,7 @@
 </p>
 
 # Nuggets Mobile SDK Libraries (Android)
+
 Mobile (Android) SDK for interaction with the Nuggets Platform.
 
 This SDK provides an Identity Wallet for Self-Sovereign Identity (SSI).
