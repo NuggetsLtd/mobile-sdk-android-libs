@@ -39,7 +39,6 @@ androidx.exifinterface:exifinterface:1.3.2
 com.iproov.sdk:iproov:9.0.3
 org.jetbrains.kotlin:kotlin-stdlib:1.7.10
 com.scottyab:rootbeer-lib:0.0.9
-app.notifee:core:+
 androidx.concurrent:concurrent-futures:1.1.0
 com.google.android.gms:play-services-tasks:18.0.1
 androidx.work:work-runtime:2.8.0
