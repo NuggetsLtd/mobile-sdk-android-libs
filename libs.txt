@@ -14,6 +14,7 @@ com.github.NuggetsLtd.mobile-sdk-android-libs:nuggetslife_react-native-nuggets:B
 com.github.NuggetsLtd.mobile-sdk-android-libs:react-native-async-storage_async-storage:BUILD_VERSION
 com.github.NuggetsLtd.mobile-sdk-android-libs:react-native-community_image-editor:BUILD_VERSION
 com.github.NuggetsLtd.mobile-sdk-android-libs:react-native-community_netinfo:BUILD_VERSION
+com.github.NuggetsLtd.mobile-sdk-android-libs:walletconnect_modal-react-native:BUILD_VERSION
 com.github.NuggetsLtd.mobile-sdk-android-libs:jail-monkey:BUILD_VERSION
 com.github.NuggetsLtd.mobile-sdk-android-libs:react-native-background-actions:BUILD_VERSION
 com.github.NuggetsLtd.mobile-sdk-android-libs:react-native-biometrics:BUILD_VERSION
@@ -21,12 +22,14 @@ com.github.NuggetsLtd.mobile-sdk-android-libs:react-native-config:BUILD_VERSION
 com.github.NuggetsLtd.mobile-sdk-android-libs:react-native-exit-app:BUILD_VERSION
 com.github.NuggetsLtd.mobile-sdk-android-libs:react-native-fs:BUILD_VERSION
 com.github.NuggetsLtd.mobile-sdk-android-libs:react-native-gesture-handler:BUILD_VERSION
+com.github.NuggetsLtd.mobile-sdk-android-libs:react-native-get-random-values:BUILD_VERSION
 com.github.NuggetsLtd.mobile-sdk-android-libs:react-native-image-crop-picker:BUILD_VERSION
 com.github.NuggetsLtd.mobile-sdk-android-libs:react-native-image-picker:BUILD_VERSION
 com.github.NuggetsLtd.mobile-sdk-android-libs:react-native-image-sequence:BUILD_VERSION
 com.github.NuggetsLtd.mobile-sdk-android-libs:react-native-keychain:BUILD_VERSION
 com.github.NuggetsLtd.mobile-sdk-android-libs:react-native-mlkit-ocr:BUILD_VERSION
 com.github.NuggetsLtd.mobile-sdk-android-libs:react-native-permissions:BUILD_VERSION
+com.github.NuggetsLtd.mobile-sdk-android-libs:react-native-prompt-android:BUILD_VERSION
 com.github.NuggetsLtd.mobile-sdk-android-libs:react-native-randombytes:BUILD_VERSION
 com.github.NuggetsLtd.mobile-sdk-android-libs:react-native-reanimated:BUILD_VERSION
 com.github.NuggetsLtd.mobile-sdk-android-libs:react-native-screens:BUILD_VERSION
@@ -35,9 +38,9 @@ com.github.NuggetsLtd.mobile-sdk-android-libs:react-native-tcp:BUILD_VERSION
 com.github.NuggetsLtd.mobile-sdk-android-libs:rn-fetch-blob:BUILD_VERSION
 com.github.NuggetsLtd.mobile-sdk-android-libs:react-native-safe-area-context:BUILD_VERSION
 androidx.exifinterface:exifinterface:1.3.2
-com.iproov.sdk:iproov:9.0.3
+com.iproov.sdk:iproov:9.1.1
 org.jetbrains.kotlin:kotlin-stdlib:1.7.10
-com.scottyab:rootbeer-lib:0.0.9
+com.scottyab:rootbeer-lib:0.1.1
 com.android.support:appcompat-v7:23.1.0
 org.slf4j:slf4j-api:1.7.36
 org.jmrtd:jmrtd:0.7.18
@@ -74,6 +77,7 @@ androidx.fragment:fragment:1.3.2
 com.facebook.conceal:conceal:1.1.3
 org.jetbrains.kotlin:kotlin-stdlib:1.8.0
 com.google.android.gms:play-services-mlkit-text-recognition:18.0.2
+androidx.appcompat:appcompat:1.0.0
 com.facebook.yoga:proguard-annotations:1.19.0
 androidx.transition:transition:1.1.0
 androidx.core:core:1.6.0
@@ -88,3 +92,4 @@ com.google.android.material:material:1.6.1
 androidx.core:core-ktx:1.8.0
 org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.8.0
 com.koushikdutta.async:androidasync:2.1.6
+org.jetbrains.kotlin:kotlin-stdlib:1.8.0
