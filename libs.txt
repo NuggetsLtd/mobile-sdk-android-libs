@@ -36,9 +36,11 @@ com.github.NuggetsLtd.mobile-sdk-android-libs:react-native-screens:BUILD_VERSION
 com.github.NuggetsLtd.mobile-sdk-android-libs:react-native-svg:BUILD_VERSION
 com.github.NuggetsLtd.mobile-sdk-android-libs:react-native-tcp:BUILD_VERSION
 com.github.NuggetsLtd.mobile-sdk-android-libs:rn-fetch-blob:BUILD_VERSION
+com.github.NuggetsLtd.mobile-sdk-android-libs:react-native-community_datetimepicker:BUILD_VERSION
+com.github.NuggetsLtd.mobile-sdk-android-libs:react-native-community_slider:BUILD_VERSION
 com.github.NuggetsLtd.mobile-sdk-android-libs:react-native-safe-area-context:BUILD_VERSION
 androidx.exifinterface:exifinterface:1.3.2
-com.iproov.sdk:iproov:9.1.1
+com.iproov.sdk:iproov:10.0.0
 org.jetbrains.kotlin:kotlin-stdlib:1.7.10
 com.scottyab:rootbeer-lib:0.1.1
 com.android.support:appcompat-v7:23.1.0
